@@ -7,7 +7,7 @@
 🚩[软件下载](https://www.yuque.com/java-s/frank/introduction#dZwDV)
 📺[视频介绍](https://www.bilibili.com/video/BV1nU4y1D7FQ)
 
-## 项目介绍
+## 项目介绍cccccccccccccccc
 
 
 💡 	自动启动游戏 | 排位分查询 | 英雄熟练度展示 | 秒选英雄 | 秒禁英雄 | 自动接受对局 | 国服数据排行榜
